@@ -111,6 +111,12 @@ a.sidebar-nav-item:focus {
     margin-right: -2rem;
  }
 
+ a.sidebar-nav-item img {
+  width: 1.5rem;
+  margin: -0.5rem 0px;
+  display: inline-block;
+}
+
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
