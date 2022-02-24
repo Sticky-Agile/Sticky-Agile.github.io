@@ -10,7 +10,9 @@ title:            Sticky Agile
 tagline:          'Agile Coaching'
 description:      'A cooperative of Agile coaches offering a variety of classes for your business.'
 url:              https://sticky-agile.github.io
-baseurl:          /
+baseurl:          
+include:
+  - public
 
 author:
   name:           'Newton Meters'
