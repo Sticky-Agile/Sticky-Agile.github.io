@@ -1,6 +1,6 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
-    <img src="{{ site.baseurl }}public/stickies.png" alt="sticky notes"/>
+    <img src="{{ site.baseurl }}/public/stickies.png" alt="sticky notes"/>
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
@@ -23,7 +23,7 @@
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | prepend: site.url }}">
-              <img src="{{ site.baseurl }}public/stickies.png" alt="sticky note bullet point"/>
+              <img src="{{ site.baseurl }}/public/stickies.png" alt="sticky note bullet point"/>
               {{ node.title }}</a>
           {% endif %}
         {% endif %}
