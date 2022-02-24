@@ -76,6 +76,18 @@ html {
 }
 
 /* About section */
+.sidebar-about {
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-about > img {
+  width: 9rem;
+  align-self: end;
+  margin-right: -3rem;
+  margin-bottom: -1rem;
+}
+
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
@@ -104,12 +116,6 @@ a.sidebar-nav-item:focus {
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
  * contents to the bottom of the sidebar in tablets and up.
  */
-
- .sidebar-sticky img {
-    width: 10rem;
-    margin-left: auto;
-    margin-right: -2rem;
- }
 
  a.sidebar-nav-item img {
   width: 1.5rem;
