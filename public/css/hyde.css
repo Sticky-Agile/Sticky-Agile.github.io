@@ -32,8 +32,11 @@
  */
 
 html {
+  --dark: #202020;
+  --light: #C0C0C0;
+
   font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
-  color: #C0C0C0;
+  color: var(--light);
 }
 
 body {
@@ -67,7 +70,7 @@ h1, h2, h3 {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: var(--dark);
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -82,7 +85,7 @@ h1, h2, h3 {
 
 /* Sidebar links */
 .sidebar a {
-  color: #c0c0c0;
+  color: var(--light);
 }
 
 /* About section */
@@ -104,7 +107,7 @@ h1, h2, h3 {
 }
 
 .sidebar-about h1:hover {
-  -webkit-text-fill-color: #c0c0c0;
+  -webkit-text-fill-color: var(--light);
 }
 
 .sidebar-about h1 a:hover {
