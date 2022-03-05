@@ -33,7 +33,7 @@
 
 html {
   --dark: #202020;
-  --light: #C0C0C0;
+  --light: #e2e2e2;
 
   font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
   color: var(--light);
@@ -45,6 +45,10 @@ body {
 
 h1, h2, h3 {
   font-family: "Syne";
+}
+
+.page img {
+  width: 200px;
 }
 
 @media (min-width: 48em) {
@@ -210,8 +214,6 @@ a.sidebar-nav-item:focus {
     margin-right: 22rem;
   }
 }
-
-
 
 /*
  * Themes
