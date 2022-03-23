@@ -32,15 +32,11 @@
  */
 
 html {
-  --dark: #202020;
-  --light: #e2e2e2;
+  --dark: #222222;
+  --light: #E7E3D7;
 
   font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
   color: var(--light);
-}
-
-body {
-  /* background-color: #C0C0C0; */
 }
 
 h1, h2, h3 {
