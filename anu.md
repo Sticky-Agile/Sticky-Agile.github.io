@@ -3,7 +3,7 @@ layout: page
 title: Anu Smalley
 ---
 
-![Anu's Headshot](/public/anu.jpg)
+![Anu's Headshot](https://raw.githubusercontent.com/Sticky-Agile/Sticky-Agile.github.io/main/public/anu.jpg)
 
 # Anu Smalley
 

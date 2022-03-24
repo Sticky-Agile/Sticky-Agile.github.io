@@ -3,7 +3,7 @@ layout: page
 title: Kate Megaw 
 ---
 
-![Kate's Headshot](/public/kate.jpg)
+![Kate's Headshot](https://raw.githubusercontent.com/Sticky-Agile/Sticky-Agile.github.io/main/public/kate.jpg)
 
 # Kate Megaw 
 Kate is a dynamic Certified Scrum Trainer (CST), Project Management Professional (PMP), and Certified Team Coach (CTC), with over 20 years working in Education, Operations, Project Management, IT and Consulting

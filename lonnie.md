@@ -3,7 +3,7 @@ layout: page
 title: Lonnie Weaver-Johnson
 ---
 
-![Lonnie's Headshot](/public/lonnie.jpg)
+![Lonnie's Headshot](https://raw.githubusercontent.com/Sticky-Agile/Sticky-Agile.github.io/main/public/lonnie.jpg)
 
 # Lonnie Weaver-Johnson
 Being an Agile trainer and coach allows me to do one of my favorite things – help people learn and grow.

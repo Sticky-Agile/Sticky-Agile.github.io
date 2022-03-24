@@ -3,7 +3,7 @@ layout: page
 title: Julie Chickering
 ---
 
-![Julie's Headshot](/public/julie.jpg)
+![Julie's Headshot](https://raw.githubusercontent.com/Sticky-Agile/Sticky-Agile.github.io/main/public/julie.jpg)
 
 # Julie Chickering
 I'm Julie Chickering, and I've never been one to do things by the book.
