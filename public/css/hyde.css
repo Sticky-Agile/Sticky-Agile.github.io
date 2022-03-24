@@ -44,7 +44,7 @@ h1, h2, h3 {
 }
 
 .page img {
-  width: 200px;
+  height: 250px;
 }
 
 @media (min-width: 48em) {
