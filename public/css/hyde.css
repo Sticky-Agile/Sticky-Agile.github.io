@@ -34,6 +34,7 @@
 html {
   --dark: #222222;
   --light: #E7E3D7;
+  --pop: #FFD700;
 
   font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
   color: var(--light);
@@ -83,9 +84,23 @@ h1, h2, h3 {
   }
 }
 
+a {
+  background-image: url(../foil.png);
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+a:hover {
+  color: var(--dark);
+  -webkit-text-fill-color: unset;
+}
+
 /* Sidebar links */
 .sidebar a {
   color: var(--light);
+  background-image: none;
+  -webkit-text-fill-color: unset;
 }
 
 /* About section */
@@ -115,7 +130,7 @@ h1, h2, h3 {
 }
 
 .foil {
-  background-image: url(../foil.jpg);
+  background-image: url(../foil.png);
   background-repeat: repeat;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

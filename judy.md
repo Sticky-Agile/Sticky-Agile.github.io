@@ -15,4 +15,4 @@ title: Judy Neher
 ## What is your favorite slogan or mantra? 
 ## If you could do anything in the world and time and money was not a problem, what would you do? 
 
-[celerity.consulting](https://celerity.consulting)
+[celerity.consulting](https://celerity.consulting){:target="_blank"}

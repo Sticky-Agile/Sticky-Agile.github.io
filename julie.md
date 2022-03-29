@@ -14,4 +14,4 @@ title: Julie Chickering
 ## What is your favorite slogan or mantra? 
 ## If you could do anything in the world and time and money was not a problem, what would you do? 
 
-[jcagile.com](https://jcagile.com)
+[jcagile.com](https://jcagile.com){:target="_blank"}
