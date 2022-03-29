@@ -97,6 +97,7 @@ h1, h2, h3 {
 a {
   background-image: url(../foil.png);
   background-repeat: repeat;
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -142,6 +143,7 @@ a:hover {
 .foil {
   background-image: url(../foil.png);
   background-repeat: repeat;
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
