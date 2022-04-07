@@ -30,12 +30,4 @@ Through our collective experiences and backgrounds, our goal is to transform the
 </div>
 
 ## Industries We've Inspired
-- Government
-- Automotive
-- Aviation
-- Finance
-- Insurance
-- Education
-- Healthcare
-- Entertainment
-- Hospitality
+<img src="{{ site.baseurl }}/public/industries.png">
