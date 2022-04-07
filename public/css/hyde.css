@@ -121,10 +121,7 @@ a:hover {
 }
 
 .sidebar-about > img {
-  width: 9rem;
-  align-self: end;
-  margin-right: -3rem;
-  margin-bottom: -1rem;
+  margin-bottom: -4rem;
 }
 
 .sidebar-about h1 {
