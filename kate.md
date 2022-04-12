@@ -19,7 +19,9 @@ With over 25 years in a training and operations environment, I have enjoyed brin
 I am passionate about working with leaders as they support the growth of Agility organization wide. I love the AHA moment when they can see the possibilities that Agile brings to the entire organization. Three of the most common words used to describe my classes are Fun, Interactive & Engaging! 
 
 ## What is your favorite slogan or mantra? 
-My favorite quote is “The measure of you as a leader is not what you do, but what others do because of what you do.” -  Howard G. Hendricks
+My favorite quote is 
+> The measure of you as a leader is not what you do, but what others do because of what you do.  
+> -- <cite>Howard G. Hendricks</cite>
 
 ## If you could do anything in the world and time and money was not a problem, what would you do? 
 If I could do anything in the world and time and money was not a problem, I would be a volunteer full time to help stop human trafficking.

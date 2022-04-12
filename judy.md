@@ -20,7 +20,8 @@ I spent the majority of my career working with the US Federal Government, as a m
 I’m really passionate about high performing teams.  Not only the environment that supports high performing teams, but the coaching, training, facilitation and mentoring that is required to guide the teams to high performing.  High performing teams are a game changer for employee engagement.
 
 ## What is your favorite slogan or mantra? 
-“My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.”  Maya Angelou
+> My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.  
+> -- <cite>Maya Angelou</cite>
 
 ## If you could do anything in the world and time and money was not a problem, what would you do? 
 Given my passion for interior design and architecture, I would spend my time using lean and Scrum practices to design hospitals and healthcare clinics with the goals of reducing patient anxiety and increasing effectiveness for healthcare workers.

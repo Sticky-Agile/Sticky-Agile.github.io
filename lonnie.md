@@ -20,7 +20,9 @@ I've been able to do this in the Financial, Retail, Banking, Insurance, Health 
 I love  helping people develop their skills and I'm a natural leader and communicator, falling into these opportunities since childhood.  My super powers include empathy and positivity - two characteristics which help me conduct lively and meaningful training and coaching sessions.  
 
 ## What is your favorite slogan or mantra? 
-A favorite quote I have is from Maya Angelou, “People will forget what you said, people will forget what you did, but people will never forget how you made them feel." 
+A favorite quote I have is from Maya Angelou, 
+> People will forget what you said, people will forget what you did, but people will never forget how you made them feel.  
+> -- <cite>Maya Angelou</cite>
 
 ## If you could do anything in the world and time and money was not a problem, what would you do? 
 If money was no object, I would create an animal sanctuary where mistreated animals could live out the rest of their lives with love and security.
