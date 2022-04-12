@@ -11,7 +11,7 @@ We are stronger together - through collaboration, community, and sharing.
 ## Our Mission
 Through our collective experiences and backgrounds, our goal is to transform the world of work by creating an inclusive community of Agilists. 
 
-## Our Badges 
+## Our Credentials 
 <div class="badges">
     <img src="{{ site.baseurl }}/public/badges/A-CSM.png">
     <img src="{{ site.baseurl }}/public/badges/A-CSPO.png">
